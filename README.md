@@ -2,6 +2,12 @@
 
 - node.js version 18 or higher
 
+
+# file to edit
+src/components/foxglovebridge.tsx
+``` Any changes here are to correct to encoding/decoding of the messages incoming from the bridge using CDR ```
+
+
 # Usage
 
 - Clone the repo
