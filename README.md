@@ -4,7 +4,7 @@
 
 
 # file to edit
-src/components/foxglovebridge.tsx
+src/components/test.tsx
 ``` Any changes here are to correct to encoding/decoding of the messages incoming from the bridge using CDR ```
 
 
