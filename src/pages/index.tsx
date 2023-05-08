@@ -1,7 +1,7 @@
 import dynamic from "next/dynamic";
 // import Jotai from "~/components/jotai";
 
-const Test = dynamic(() => import("../components/foxglovebridge"), {
+const Test = dynamic(() => import("../components/test"), {
   ssr: false,
 });
 // const Jotai = dynamic(() => import("../components/jotai"), {
